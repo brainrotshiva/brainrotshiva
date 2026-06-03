@@ -51,7 +51,7 @@ I'm a cybersecurity enthusiast currently completing an intensive **6-month Cyber
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brainrotshiva&show_icons=true&theme=dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Brainrotshiva&theme=dark&hide_border=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brainrotshiva&theme=dark&hide_border=true" width="48%"/>
 </p>
 
