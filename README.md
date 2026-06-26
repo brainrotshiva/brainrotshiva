@@ -116,7 +116,27 @@ class ShivaSaiBadam:
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Brainrotshiva&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![Galaxy Brain](https://img.shields.io/badge/Galaxy%20Brain-7B2FBE?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+
+![Pair Extraordinaire](https://img.shields.io/badge/Pair%20Extraordinaire-4CAF50?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+
+![Pull Shark x2](https://img.shields.io/badge/Pull%20Shark%20×2-1E90FF?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+
+![YOLO](https://img.shields.io/badge/YOLO-FF69B4?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+
+![Starstruck](https://img.shields.io/badge/Starstruck-FF8C00?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
