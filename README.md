@@ -138,6 +138,8 @@ class ShivaSaiBadam:
 
 ![Starstruck](https://img.shields.io/badge/Starstruck-FF8C00?style=for-the-badge&logo=github&logoColor=white)
 
+![My GitHub Achievements](./achievements.png)
+
 </div>
 
 ---
