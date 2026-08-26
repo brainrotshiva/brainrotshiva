@@ -97,21 +97,6 @@ class ShivaSaiBadam:
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Brainrotshiva&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00bfff&text_color=ffffff" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Brainrotshiva&theme=radical&hide_border=true&background=0d1117&stroke=00ff41&ring=00bfff&fire=ff4444&currStreakLabel=ffffff" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brainrotshiva&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" width="40%" />
-
-</div>
-
----
-
 ### 🏆 GitHub Trophies
 
 <div align="center">
