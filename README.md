@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Shiva+Sai+Badam;Cybersecurity+Enthusiast+%F0%9F%94%90;Penetration+Tester+%F0%9F%9B%A1%EF%B8%8F;SOC+Analyst+%F0%9F%96%A5%EF%B8%8F;CTF+Player+%F0%9F%9A%A9;Tool+Builder+%F0%9F%94%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Shiva;Cybersecurity+Enthusiast+%F0%9F%94%90;Penetration+Tester+%F0%9F%9B%A1%EF%B8%8F;SOC+Analyst+%F0%9F%96%A5%EF%B8%8F;CTF+Player+%F0%9F%9A%A9;Tool+Builder+%F0%9F%94%A7)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:00ff41&height=120&section=header&text=&fontSize=0" width="100%"/>
 
